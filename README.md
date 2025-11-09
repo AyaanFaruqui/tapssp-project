@@ -8,7 +8,7 @@ This project is a high-performance command-line interface (CLI) tool written in 
 
 ## Final Project Enhancements
 
-To exceed the requirements for the final project, this utility has been significantly enhanced beyond a simple recursive traverse:
+This utility has been changed beyond a simple recursive traverse:
 
 ### 1. Concurrency and Performance Optimization (Challenge 1)
 * **Parallel Traversal:** Uses the **`rayon`** crate to parallelize recursive directory analysis across multiple CPU cores. This converts the I/O-bound problem into a parallelized workload, drastically reducing execution time on large or deep directory trees.
