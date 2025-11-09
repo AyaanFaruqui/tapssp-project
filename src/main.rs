@@ -2,12 +2,11 @@ use std::env;
 use std::fs;
 use std::path::Path; 
 use std::io;
-use std::process;
 use std::sync::{Arc, Mutex};
 use std::collections::HashSet;
 use std::error::Error;
 
-// TUI Imports (Phase 3)
+// TUI Imports (Phase 3: Visualization)
 use ratatui::prelude::*;
 use ratatui::widgets::{Block, Borders, List, ListItem, ListState};
 use ratatui::layout::Margin; 
