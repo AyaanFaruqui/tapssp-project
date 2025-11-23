@@ -32,8 +32,9 @@ The project is complete, successfully integrating all three major challenges:
 
 ***
 
-## Core Functionality
+##  Project Demonstration & Core Functionality
 
+* **Video Demonstration:** **[Watch the full project walkthrough here](https://youtu.be/vnaFSRnFRHU)**
 * Recursively traverses a specified directory and all its subdirectories.
 * Calculates and displays the total disk usage in bytes.
 * Provides a visual TUI for easy navigation and analysis.
